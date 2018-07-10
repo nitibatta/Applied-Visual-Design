@@ -6,3 +6,4 @@ set the display property to block.
 
 
 Center the div on the page by adding a margin property with a value of auto.
+By setting the margin to auto it moves to the center.
